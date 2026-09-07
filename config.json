@@ -1,0 +1,240 @@
+{
+  "site": {
+    "title": "Kynetra Links",
+    "description": "Developer portfolio, projects, contact and professional profiles.",
+    "language": "es",
+    "icon": "💻",
+    "favicon": "",
+    "accent": "#7C3AED"
+  },
+  "theme": {
+    "mode": "dark",
+    "colors": {
+      "background": "#0B0F19",
+      "surface": "#111827",
+      "surfaceHover": "#182235",
+      "text": "#F9FAFB",
+      "muted": "#9CA3AF",
+      "primary": "#7C3AED",
+      "primaryHover": "#8B5CF6",
+      "border": "#263244",
+      "success": "#22C55E"
+    },
+    "gradient": {
+      "enabled": true,
+      "from": "#7C3AED",
+      "to": "#06B6D4",
+      "angle": 135
+    },
+    "background": {
+      "type": "gradient",
+      "value": "radial-gradient(circle at top, rgba(124,58,237,.18), transparent 35%), #0B0F19"
+    },
+    "card": {
+      "radius": 18,
+      "shadow": "0 18px 50px rgba(0,0,0,.22)"
+    },
+    "button": {
+      "radius": 14,
+      "style": "solid"
+    }
+  },
+  "profile": {
+    "type": "developer",
+    "name": "Jose Angel Perea Valencia",
+    "headline": "Software Developer | AI | Cloud | Data",
+    "bio": "Construyo soluciones digitales, automatizaciones y productos con tecnología, datos e inteligencia artificial.",
+    "avatar": "",
+    "verified": false,
+    "location": "Buenaventura, CO-VAC",
+    "availability": "Disponible para proyectos",
+    "tags": [
+      "Software",
+      "AI",
+      "Cloud",
+      "Data"
+    ],
+    "stats": [
+      {
+        "label": "Proyectos",
+        "value": "4+"
+      },
+      {
+        "label": "Tecnologías",
+        "value": "10+"
+      },
+      {
+        "label": "Experiencia",
+        "value": "En formación"
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "Mi portafolio",
+      "description": "Proyectos, habilidades y trayectoria",
+      "url": "https://example.com",
+      "icon": "🌐",
+      "featured": true,
+      "enabled": false
+    },
+    {
+      "title": "GitHub",
+      "description": "Código, repositorios y proyectos open source",
+      "url": "https://github.com/joelXVS",
+      "icon": "◈",
+      "featured": true,
+      "enabled": true
+    },
+    {
+      "title": "LinkedIn",
+      "description": "Perfil profesional y networking",
+      "url": "https://www.linkedin.com/in/josé-perea-639511298/",
+      "icon": "in",
+      "featured": false,
+      "enabled": true
+    },
+    {
+      "title": "Currículum / CV",
+      "description": "Descarga mi hoja de vida profesional",
+      "url": "./CV.pdf",
+      "icon": "📄",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Proyectos destacados",
+      "description": "Mis productos y proyectos principales",
+      "url": "#projects",
+      "icon": "🚀",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Email",
+      "description": "Contacto profesional",
+      "url": "joseperea454214@gmail.com",
+      "icon": "✉️",
+      "featured": false,
+      "enabled": true
+    },
+    {
+      "title": "Calendario",
+      "description": "Agenda una reunión conmigo",
+      "url": "https://calendly.com/",
+      "icon": "📅",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Dev.to",
+      "description": "Artículos y contenido técnico",
+      "url": "https://dev.to/",
+      "icon": "⌘",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Stack Overflow",
+      "description": "Preguntas y respuestas de desarrollo",
+      "url": "https://stackoverflow.com/",
+      "icon": "▴",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "npm",
+      "description": "Paquetes y librerías publicadas",
+      "url": "https://www.npmjs.com/",
+      "icon": "npm",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Docker Hub",
+      "description": "Imágenes y proyectos containerizados",
+      "url": "https://hub.docker.com/",
+      "icon": "🐳",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Hugging Face",
+      "description": "Modelos, datasets y aplicaciones de IA",
+      "url": "https://huggingface.co/",
+      "icon": "🤗",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "Kaggle",
+      "description": "Data science, notebooks y datasets",
+      "url": "https://www.kaggle.com/",
+      "icon": "K",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "YouTube",
+      "description": "Tutoriales, demos y contenido",
+      "url": "https://www.youtube.com/",
+      "icon": "▶",
+      "featured": false,
+      "enabled": false
+    },
+    {
+      "title": "X / Twitter",
+      "description": "Tecnología, proyectos y networking",
+      "url": "https://x.com/",
+      "icon": "𝕏",
+      "featured": false,
+      "enabled": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "Encuéntrame en internet",
+      "type": "links",
+      "enabled": true
+    },
+    {
+      "id": "projects",
+      "title": "Proyectos destacados",
+      "type": "projects",
+      "enabled": false
+    },
+    {
+      "id": "contact",
+      "title": "¿Hacemos algo interesante?",
+      "type": "cta",
+      "enabled": true
+    }
+  ],
+  "projects": [
+    
+  ],
+  "cta": {
+    "title": "¿Tienes una idea?",
+    "text": "Hablemos de software, IA, automatización o nuevos proyectos.",
+    "buttonText": "Contactarme",
+    "url": "kynetra.main@gmail.com"
+  },
+  "footer": {
+    "text": "Construido con código y café.",
+    "showGithubBadge": true,
+    "repository": "https://github.com/joelXVS"
+  },
+  "seo": {
+    "keywords": [
+      "developer",
+      "software developer",
+      "AI",
+      "cloud",
+      "data",
+      "portfolio",
+      "Colombia"
+    ],
+    "author": "Jose Angel Perea Valencia - KYNETRA Links"
+  }
+}
